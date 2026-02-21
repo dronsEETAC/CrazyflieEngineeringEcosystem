@@ -1,5 +1,5 @@
 # Crazyflie Engineering Ecosystem   
-<img width="1100" height="700" alt="Imagen1" src="https://github.com/user-attachments/assets/646ec6f8-fdea-4fb3-bbc5-75b622df8e49" />
+<img width="600" height="400" alt="Imagen1" src="https://github.com/user-attachments/assets/646ec6f8-fdea-4fb3-bbc5-75b622df8e49" />
 
 ## Descripción general   
 Este repositorio contiene aplicaciones de todo tipo para trabajar con el dron Crazyflie. Se trata de un dron pequeño para vuelo en interiores. Es una alternativa al dron Tello.   
