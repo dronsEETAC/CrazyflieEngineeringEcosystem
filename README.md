@@ -9,8 +9,12 @@ La mayor parte del material que se encuentra en este repositorio es el resultado
 Más información sobre este dron puede encontrarse aquí:
 
 ## Módulos desarrollados   
-* *Tello Drone Circus*:
-[![CrazyflieEngineeringEcosystem Badge](https://img.shields.io/badge/CEE-TelloDroneCircus-yellow.svg)](https://github.com/dronsEETAC/TelloDroneCircus) a desktop application (Python + tkinter) that allows the user to interact with the drone in a fun way (for instance, guide the drone with body poses or with the voice
+* *CrazyLink*:
+[![CrazyflieEngineeringEcosystem Badge](https://img.shields.io/badge/CEE-CrazyLink-yellow.svg)](https://github.com/dronsEETAC/CrazyFlie_Ferran/tree/main/Crazy_Link) contiene una versión mejorada de la librería CrazyLink, con el mismo modelo de programación que DronLink. También contiene una aplicación de demostración que incluye control con Joystick y planificación de vuelos.
+
+* *Crazy Demo*:
+[![CrazyflieEngineeringEcosystem Badge](https://img.shields.io/badge/CEE-Crazyflie_demo-yellow.svg)](https://github.com/dronsEETAC/crazyLink_Alex) contiene una primera versión de la librería CrazyLink, con diferentes programas de demostración.
+
 
 ## Recopilación de TFG y TFM 
 
