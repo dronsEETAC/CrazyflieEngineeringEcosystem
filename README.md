@@ -6,7 +6,9 @@ Este repositorio contiene aplicaciones de todo tipo para trabajar con el dron Cr
  
 La mayor parte del material que se encuentra en este repositorio es el resultado de proyectos de fin de estudios de alumnos de la EETAC.    
  
-Más información sobre este dron puede encontrarse aquí:
+Más información sobre este dron puede encontrarse aquí:   
+
+ https://www.bitcraze.io/products/old-products/crazyflie-2-1/
 
 ## Módulos desarrollados   
 * *CrazyLink*:
